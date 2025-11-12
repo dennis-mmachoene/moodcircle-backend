@@ -4,14 +4,14 @@ Anonymous, emotion-driven social platform backend. Share moods, not identities. 
 
 ## Features
 
-- ** OTP Authentication**: Email-based login with JWT access/refresh tokens
-- ** Mood Detection**: Auto-classify emotions using HuggingFace AI or fallback heuristics
-- ** Auto-Expiry**: Posts automatically delete after 24 hours
-- ** Reactions System**: One reaction per user per post
-- ** Voice Posts**: Upload audio with text
-- ** Privacy-First**: Zero personal data storage, pseudonymous only
-- ** Security**: Rate limiting, input validation, XSS protection, CSRF guards
-- ** Comprehensive Tests**: 90%+ coverage with Jest
+- OTP Authentication: Email-based login with JWT access/refresh tokens
+- Mood Detection: Auto-classify emotions using HuggingFace AI or fallback heuristics
+- Auto-Expiry: Posts automatically delete after 24 hours
+- Reactions System: One reaction per user per post
+- Voice Posts: Upload audio with text
+- Privacy-First: Zero personal data storage, pseudonymous only
+- Security: Rate limiting, input validation, XSS protection, CSRF guards
+- Comprehensive Tests: 90%+ coverage with Jest
 
 ## Quick Start
 
